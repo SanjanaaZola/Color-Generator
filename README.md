@@ -20,5 +20,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 ## To visit the website, click on the given link.
-  [https://mystifying-clarke-53677d.netlify.app/]
+  https://mystifying-clarke-53677d.netlify.app/
 
